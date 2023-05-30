@@ -11,3 +11,5 @@ A website that offersn fitness training services
 
 ## COntribution
 Made with ❤️ by Joey Byrd
+
+# Run Buddy Inc.
